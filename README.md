@@ -1,1 +1,1 @@
-# Testing-almost-cospectrality-of-components-of-NEPS
+# A set of Java classes aimed at testing the conjecture of Stevanović on the almost cospectrality of components of NEPS of connected, bipartite graphs from Linear Algebra and Its Applications 311 (2000) 35-44. This is supplementary material to the paper "A note on almost cospectrality of components of NEPS of bipartite graphs", which has been submitted for publication.
